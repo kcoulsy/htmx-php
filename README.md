@@ -1,4 +1,4 @@
-# Product Pagination Project
+# PHP + HTMX Demo
 
 ## Overview
 
